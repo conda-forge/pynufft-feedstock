@@ -1,5 +1,5 @@
 {% set name = "pynufft" %}
-{% set version = "2022.2.1" %}
+{% set version = "2022.2.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pynufft-{{ version }}.tar.gz
-  sha256: 9106b6e0f101d41f783695a39eb548888d2f04f3ab9cac96d7968f874e86e70d
+  sha256: 4690da84739a14120692c071abb6b4ae2837c58dbb5d924786fdcd8112c3c1bf
 
 build:
   number: 0
