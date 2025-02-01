@@ -35,7 +35,7 @@ test:
     - python {{ python_min }}
 
 about:
-  home: https://github.com/jyhmiinlin/pynufft
+  home: https://github.com/pynufft/pynufft
   summary: Python non-uniform fast Fourier transform (PyNUFFT)
   license: AGPL-3.0-or-later
   license_file: LICENSE
