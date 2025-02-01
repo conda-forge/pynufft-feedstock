@@ -3,7 +3,7 @@ About pynufft-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pynufft-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/jyhmiinlin/pynufft
+Home: https://github.com/pynufft/pynufft
 
 Package license: AGPL-3.0-or-later
 
